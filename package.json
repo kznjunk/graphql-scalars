@@ -1,0 +1,22 @@
+{
+  "name": "@kznjunk/graphql-scalars",
+  "version": "0.0.1",
+  "description": "Custom preset of GraphQL scalars",
+  "main": "srx/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kznjunk/graphql-scalars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kznjunk/graphql-scalars/issues"
+  },
+  "homepage": "https://github.com/kznjunk/graphql-scalars#readme"
+}
